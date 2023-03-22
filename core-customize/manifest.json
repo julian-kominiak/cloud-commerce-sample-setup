@@ -28,7 +28,8 @@
             },
             {
                 "aspect": "api",
-                "location": "hybris/config/environments/api.properties"
+                "location": "hybris/config/environments/dev-api.properties"
+                "persona" : "development"
             },
             {
                 "aspect": "backoffice",
